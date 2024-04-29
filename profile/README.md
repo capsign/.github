@@ -1,4 +1,6 @@
-# CapSign 🏢 🔑
+# CapSign 🧢 🔑
+
+CapSign is the fusion of capital markets & digital signatures.
 
 ## Table of Contents
 
@@ -16,6 +18,8 @@
 Our mission is to enable more opportunities and greater economic benefits for private companies, shareholders, and investors through blockchain technology. We believe that interoperability will be a major driver for compliance automation, deep liquidity, and composability between financial services. We're focused specifically on private markets by improving workflows for transactions involving restricted securities.
 
 ## Technology Stack
+
+As a young startup, our tech stack is optimized to allow us to ship at hyperspeed. As we mature, we envision adoption of technologies that are more optimized for the platform.
 
 | Category            | Technology      | Description                                                                                                                 |
 |---------------------|-----------------|-----------------------------------------------------------------------------------------------------------------------------|

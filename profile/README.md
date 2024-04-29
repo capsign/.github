@@ -49,14 +49,14 @@ As a young startup, our tech stack is optimized to allow us to ship at hyperspee
 
 ### Securities Tokenization
 
-Our platform supports the tokenization of the following assets:
+Our platform currently supports the tokenization of the following assets:
 
-- Common Stock
-- Preferred Stock
-- SAFE Contracts
-- Stock Options
-- Convertible Notes
-- Warrants
+- [x] Common Stock
+- [ ] Preferred Stock
+- [x] SAFE Contracts
+- [ ] Stock Options
+- [ ] Convertible Notes
+- [ ] Warrants
 
 ### Securities Interoperability
 
@@ -76,5 +76,5 @@ CapSign is committed to compliance with applicable laws and regulations in the j
 
 ## Contact Information
 
-If you're interested in applying to work at CapSign, send an email to [engineering@capsign.com](mailto:engineering@capsign.com).
+If you're interested in working at CapSign, send an email to [engineering@capsign.com](mailto:engineering@capsign.com). We don't have any open roles right now, but we're always on the lookout for talented engineers!
 

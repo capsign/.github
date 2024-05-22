@@ -1,4 +1,4 @@
-# CapSign 🧢 🔑
+# CapSign 🧢 🔏
 
 CapSign is the protocol for capital markets & digital assets.
 

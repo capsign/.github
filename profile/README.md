@@ -1,6 +1,6 @@
 # CapSign 🧢 🔑
 
-CapSign is the fusion of capital markets & digital signatures.
+CapSign is the fusion of capital markets & digital assets.
 
 ## Table of Contents
 

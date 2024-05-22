@@ -52,7 +52,7 @@ As a young startup, our tech stack is optimized to allow us to ship at hyperspee
 Our platform currently supports the tokenization of the following assets:
 
 - [x] Common Stock
-- [ ] Preferred Stock
+- [x] Preferred Stock
 - [x] SAFE Contracts
 - [ ] Stock Options
 - [ ] Convertible Notes

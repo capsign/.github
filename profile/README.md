@@ -2,11 +2,11 @@
 
 > **Capital markets blockchain protocol and infrastructure ecosystem**
 
-[![Website](https://img.shields.io/badge/website-capsign.io-blue?style=for-the-badge)](https://capsign.com)
-[![Documentation](https://img.shields.io/badge/docs-capsign.com-green?style=for-the-badge)](https://docs.capsign.com)
-[![CMX Network](https://img.shields.io/badge/CMX-Network-green?style=for-the-badge)](https://cmx.network)
+[![Website](https://img.shields.io/badge/website-capsign.com-blue)](https://capsign.com)
+[![Documentation](https://img.shields.io/badge/docs-capsign.com-green)](https://docs.capsign.com)
+[![CMX Network](https://img.shields.io/badge/CMX-Network-green)](https://cmx.network)
 [![Discord](https://img.shields.io/discord/gSmnZ9wmNv?color=7289da&logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/gSmnZ9wmNv)
-[![Twitter](https://img.shields.io/badge/twitter-@capsign-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/capsigninc)
+[![Twitter](https://img.shields.io/badge/twitter-@capsign-1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/capsigninc)
 
 ## 🌟 What is CapSign?
 

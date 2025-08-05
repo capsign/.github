@@ -3,10 +3,10 @@
 > **Enterprise capital markets blockchain protocol and infrastructure ecosystem**
 
 [![Website](https://img.shields.io/badge/website-capsign.com-blue)](https://capsign.com)
-[![Documentation](https://img.shields.io/badge/docs-capsign.com-green)](https://docs.capsign.com)
+[![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://docs.capsign.com)
 [![Discord](https://img.shields.io/discord/1210387731075833856?color=7289da&logo=discord&logoColor=white)](https://discord.gg/gSmnZ9wmNv)
-[![CMX Network](https://img.shields.io/badge/CMX-Network-green)](https://cmx.network)
-[![Twitter](https://img.shields.io/badge/twitter-@capsign-1DA1F2&logo=twitter&logoColor=white)](https://twitter.com/capsigninc)
+[![CMX Network](https://img.shields.io/badge/CMX-Network-1DA1F2)](https://cmx.network)
+[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/capsigninc)
 
 ## What is CapSign?
 
@@ -49,7 +49,7 @@ Open-source deployment tools for running CapSign Protocol and CMX Network infras
 
 ## Community & Support
 
-**[💬 Discord](https://discord.gg/gSmnZ9wmNv)** • **[🐦 Twitter](https://twitter.com/CapSignInc)** • **[📧 Email Support](mailto:support@capsign.com)** • **[🏢 Enterprise](https://support.capsign.com)**
+**[💬 Discord](https://discord.gg/gSmnZ9wmNv)** • **[🐦 X](https://x.com/capsigninc)** • **[📧 Email Support](mailto:support@capsign.com)** • **[🏢 Enterprise](https://support.capsign.com)**
 
 ## Get Started
 
@@ -69,7 +69,7 @@ Open-source deployment tools for running CapSign Protocol and CMX Network infras
 
 **Building the future of capital markets on blockchain.**
 
-[Website](https://capsign.com) • [CMX Network](https://cmx.network) • [Documentation](https://docs.capsign.com) • [Twitter](https://twitter.com/capsigninc)
+[Website](https://capsign.com) • [CMX Network](https://cmx.network) • [Documentation](https://docs.capsign.com) • [X](https://x.com/capsigninc)
 
 © 2024 CapSign Inc. All rights reserved.
 

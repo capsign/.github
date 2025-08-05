@@ -10,7 +10,7 @@
 
 ## What is CapSign?
 
-CapSign is building the **future of capital markets on blockchain** through the CapSign Protocol, CMX Network (L2), and enterprise infrastructure tools.
+CapSign is building the **future of capital markets on blockchain** through the CMX Protocol, CMX Network (L2), and enterprise infrastructure tools.
 
 **Capital Markets Protocol** • **CMX Network (L2)** • **CMX Token** • **Enterprise Infrastructure**
 
@@ -22,7 +22,7 @@ CapSign is building the **future of capital markets on blockchain** through the 
 
 ### **Infrastructure Foundation** (Available Now)
 
-Open-source deployment tools for running CapSign Protocol and CMX Network infrastructure:
+Open-source deployment tools for running CMX Protocol and CMX Network infrastructure:
 
 | Repository                                                      | Purpose                           | Key Features                              |
 | --------------------------------------------------------------- | --------------------------------- | ----------------------------------------- |
@@ -41,11 +41,11 @@ Open-source deployment tools for running CapSign Protocol and CMX Network infras
 
 ### **Developer Tools** (Coming Soon)
 
-| Repository           | Purpose                                | Technology                       |
-| -------------------- | -------------------------------------- | -------------------------------- |
-| **SDK**              | CapSign Protocol integration libraries | TypeScript • REST • WebSocket    |
-| **CLI**              | CMX Network development tools          | Node.js • Protocol • Deployment  |
-| **Wallet Extension** | CMX Token & protocol Web3 integration  | TypeScript • Multi-wallet • APIs |
+| Repository           | Purpose                               | Technology                       |
+| -------------------- | ------------------------------------- | -------------------------------- |
+| **SDK**              | CMX Protocol integration libraries    | TypeScript • REST • WebSocket    |
+| **CLI**              | CMX Network development tools         | Node.js • Protocol • Deployment  |
+| **Wallet Extension** | CMX Token & protocol Web3 integration | TypeScript • Multi-wallet • APIs |
 
 ## Community & Support
 

@@ -6,7 +6,7 @@
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://docs.capsign.com)
 [![Discord](https://img.shields.io/discord/1210387731075833856?color=7289da&logo=discord&logoColor=white)](https://discord.gg/gSmnZ9wmNv)
 [![CMX Network](https://img.shields.io/badge/CMX-Devnet-green)](https://cmx.network)
-[![X](https://img.shields.io/badge/%40CapSignInc-Follow-%23000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsigninc)
+[![X](https://img.shields.io/badge/Follow-%40CapSignInc-%23000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsigninc)
 
 ## What is CapSign?
 
@@ -69,7 +69,7 @@ Open-source deployment tools for running CMX Protocol and CMX Network infrastruc
 
 **Building the future of capital markets on blockchain.**
 
-[Website](https://capsign.com) • [CMX Network](https://cmx.network) • [Documentation](https://docs.capsign.com) • [@CapSignInc](https://x.com/capsigninc)
+[Website](https://capsign.com) • [CMX Network](https://cmx.network) • [Documentation](https://docs.capsign.com) • [X](https://x.com/capsigninc)
 
 © 2025 CapSign Inc. All rights reserved.
 

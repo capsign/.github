@@ -6,7 +6,7 @@
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://docs.capsign.com)
 [![Discord](https://img.shields.io/discord/1210387731075833856?color=7289da&logo=discord&logoColor=white)](https://discord.gg/gSmnZ9wmNv)
 [![CMX Network](https://img.shields.io/badge/CMX-Devnet-green)](https://cmx.network)
-[![X](https://img.shields.io/badge/Follow-%40CapSignInc-%23000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsigninc)
+[![X](https://img.shields.io/badge/%40CapSignInc-000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsigninc)
 
 ## What is CapSign?
 

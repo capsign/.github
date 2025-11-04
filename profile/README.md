@@ -10,58 +10,15 @@
 
 ## What is CapSign?
 
-CapSign is building the **future of capital markets on blockchain** through the CMX Protocol, CMX Network (L2), and enterprise infrastructure tools.
+CapSign is building the **future of capital markets on blockchain** through the CapSign Protocol.
 
-**Capital Markets Protocol** • **CMX Network (L2)** • **CMX Token** • **Enterprise Infrastructure**
-
-**📚 [Complete Documentation](https://docs.capsign.com)** • **⚡ [Quick Start Guide](https://docs.capsign.com/quickstart)**
-
----
-
-## Open Source Repositories
-
-### **Infrastructure Foundation** (Available Now)
-
-Open-source deployment tools for running CMX Protocol and CMX Network infrastructure:
-
-| Repository                                                      | Purpose                           | Key Features                              |
-| --------------------------------------------------------------- | --------------------------------- | ----------------------------------------- |
-| **[Infrastructure](https://github.com/capsign/infrastructure)** | AWS deployment automation         | Terraform • EKS • Auto-scaling • Security |
-| **[Helm Charts](https://github.com/capsign/helm-charts)**       | Kubernetes application deployment | Reth • Prysm • Optimism • Monitoring      |
-| **[Documentation](https://github.com/capsign/docs)**            | Comprehensive guides & tutorials  | Setup • API • Best practices              |
-
-### **Protocol & Applications** (Coming Soon to Open Source)
-
-| Repository    | Purpose                              | Technology                      |
-| ------------- | ------------------------------------ | ------------------------------- |
-| **Protocol**  | CapSign capital markets protocol     | Solidity • Foundry • Compliance |
-| **Interface** | Capital markets trading interface    | Next.js • Web3 • Real-time data |
-| **Admin**     | Network governance & analytics       | React • GraphQL • Monitoring    |
-| **Subgraph**  | CMX Network & protocol data indexing | Graph Protocol • Multi-chain    |
-
-### **Developer Tools** (Coming Soon)
-
-| Repository           | Purpose                               | Technology                       |
-| -------------------- | ------------------------------------- | -------------------------------- |
-| **SDK**              | CMX Protocol integration libraries    | TypeScript • REST • WebSocket    |
-| **CLI**              | CMX Network development tools         | Node.js • Protocol • Deployment  |
-| **Wallet Extension** | CMX Token & protocol Web3 integration | TypeScript • Multi-wallet • APIs |
-
-## Community & Support
-
-**[💬 Discord](https://discord.gg/gSmnZ9wmNv)** • **[🐦 X](https://x.com/capsigninc)** • **[📧 Email Support](mailto:support@capsign.com)** • **[🏢 Enterprise](https://support.capsign.com)**
-
-## Get Started
-
-**[📚 Documentation](https://docs.capsign.com)** • **[⚡ Quick Start](https://docs.capsign.com/quickstart)** • **[🛠️ Developer Guide](https://docs.capsign.com/developers)**
-
-## Contributing
-
-**[📋 Contributing Guide](https://github.com/capsign/infrastructure/blob/main/CONTRIBUTING.md)** • **[🐛 Report Issues](https://github.com/capsign/infrastructure/issues)** • **[💡 Request Features](https://github.com/orgs/capsign/discussions)**
-
-## Roadmap & Feedback
-
-**[📋 Public Roadmap](https://github.com/orgs/capsign/projects/1)** • **[💡 Suggest Features](https://github.com/orgs/capsign/discussions/categories/ideas)** • **[🐛 Report Issues](https://github.com/capsign/infrastructure/issues)**
+CapSign combines blockchain technology with compliance tools to provide:
+- 30-second account creation - Create a smart wallet instantly with Face ID or Touch ID (no email required)
+- Multi-entity support - Manage personal, corporate, and fund accounts from a single login
+- Securities tokens - Issue compliant digital securities with built-in lot tracking (ERC-7752)
+- Investment offerings - Create private offerings with Reg D, Reg S, or Reg A+ compliance
+- Document signing - Sign legal documents with blockchain-based signatures
+- Identity verification - Verify identity through Persona (via Bridge.xyz) when ready to invest
 
 ---
 
@@ -69,7 +26,7 @@ Open-source deployment tools for running CMX Protocol and CMX Network infrastruc
 
 **Building the future of capital markets on blockchain.**
 
-[Website](https://capsign.com) • [CMX Network](https://cmx.network) • [Documentation](https://docs.capsign.com) • [X](https://x.com/capsigninc)
+[Website](https://capsign.com) • [Documentation](https://docs.capsign.com) • [X](https://x.com/capsigninc)
 
 © 2025 CapSign Inc. All rights reserved.
 

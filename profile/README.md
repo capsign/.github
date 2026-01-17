@@ -4,8 +4,7 @@
 
 [![Website](https://img.shields.io/badge/website-capsign.com-blue)](https://capsign.com)
 [![GitBook](https://img.shields.io/badge/GitBook-3884FF?logo=gitbook&logoColor=fff)](https://docs.capsign.com)
-[![Discord](https://img.shields.io/discord/1210387731075833856?color=7289da&logo=discord&logoColor=white)](https://discord.gg/gSmnZ9wmNv)
-[![X](https://img.shields.io/badge/%40CapSignInc-000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsigninc)
+[![X](https://img.shields.io/badge/%40CapSign-000000.svg?logo=X&color=white&labelColor=black)](https://x.com/capsign)
 
 ## What is CapSign?
 
